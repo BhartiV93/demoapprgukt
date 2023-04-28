@@ -5,7 +5,7 @@
 <h1>This is my first Web App</h1>
 
 <?php
-echo "Hello World!";
+echo "Hello World!, Welcome to Cloud Computing Course";
 ?>
 
 </body>
