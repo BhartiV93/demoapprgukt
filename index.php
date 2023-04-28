@@ -6,7 +6,7 @@
   <h2>Demo on App Service using azure Portal</h2>
 
 <?php
-echo "Hello Students! Welcome to Cloud Computing course!";
+echo "Welcome to Cloud Computing course!";
 ?>
 
 </body>
