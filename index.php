@@ -3,9 +3,10 @@
 <body>
 
 <h1>This is my first Web App</h1>
+  <h2>App Service</h2>
 
 <?php
-echo "Hello World!, Welcome to Cloud Computing Course";
+echo "Hello World!";
 ?>
 
 </body>
