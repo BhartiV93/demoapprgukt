@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>This is my first Web App</h1>
-  <h2>App Service</h2>
+<h1>First Web Application</h1>
+  <h2>Demo on App Service using azure Portal</h2>
 
 <?php
-echo "Hello World!";
+echo "Hello Students! Welcome to Cloud Computing course!";
 ?>
 
 </body>
